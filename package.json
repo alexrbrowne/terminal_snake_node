@@ -1,0 +1,12 @@
+{
+    "name": "snake",
+    "version": "1.0.0",
+    "description": "Snake Game",
+    "main": "snake.js",
+    "scripts": {
+        "start": "node --experimental-modules snake.mjs"
+    },
+    "dependencies": {
+        "chalk": "^5.3.0"
+    }
+}
